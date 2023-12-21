@@ -105,6 +105,16 @@ input[type=submit]{
   background-color: #2ec4b6;
 }
 
+.password{
+  position: relative;
+}
+
+.bi-eye{
+  position: absolute;
+  right: 1rem;
+  top: 2rem;
+}
+
 footer{
   text-align: center;
   font-size: 0.8rem;
